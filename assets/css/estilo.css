@@ -186,5 +186,24 @@ html{
     .relogio{
         background-size: 100%;
     }
-
+    .logo_direita, .logo_esquerda{
+        display: none;
+    }
+    .titulos{
+        margin: 40px 30px 0px 100px;
+        
+    }
+    .segundob{
+        width: 350px;
+        margin-left: 70px;
+        margin-bottom: 20px;
+    }
+    .organiz{
+        font-size: 20px;
+        line-height: 35px;
+        margin-left: 60px;
+    }
+    .insta{
+        margin-top: 10px;
+    }
 }
